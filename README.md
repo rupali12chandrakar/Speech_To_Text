@@ -1,19 +1,27 @@
 # Speech_To_Text
-This project demonstrates how to convert human speech into text using Google's Speech Recognition API in Python. It runs entirely in Google Colab — no setup required!
+This project demonstrates how to convert human speech into text using **Google's Speech Recognition API** in Python. It runs entirely in **Google Colab** — no setup required!
 
-📌 Objective
+## 📌 Objective
+
 The goal is to showcase a simple and efficient way to convert voice/audio files to text using AI. This project illustrates the potential of speech recognition in real-world applications such as virtual assistants and transcription systems.
 
-🛠️ Tools & Technologies
-Python 3
-Google Colab
-SpeechRecognition (for transcription)
-Pydub (for audio conversion)
-Google Speech Recognition API
-##Getting Started
+---
 
-###Clone the Repo
+## 🛠️ Tools & Technologies
 
+- **Python 3**
+- **Google Colab**
+- **SpeechRecognition** (for transcription)
+- **Pydub** (for audio conversion)
+- **Google Speech Recognition API**
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Clone the Repo
+
+```bash
 git clone https://github.com/your-username/voice-to-text-ai.git
 cd voice-to-text-ai
 ✅ Open in Google Colab
